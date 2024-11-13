@@ -13,3 +13,16 @@
     font-size: 20px;
     color: white;
 }
+
+.contenitore{
+    border-style: solid;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+.simbolo{
+    font-size: 40px;
+}
